@@ -3,7 +3,7 @@ PriorityMAC
 
 This source code is associated with the journal article:
 
-Wei Shen; Tingting Zhang; Barac, F.; Gidlund, M., "PriorityMAC: A Priority-Enhanced MAC Protocol for Critical Traffic in Industrial Wireless Sensor and Actuator Networks," Industrial Informatics, IEEE Transactions on , vol.10, no.1, pp.824,835, Feb. 2014.
+Wei Shen; Tingting Zhang; Barac, Filip Barac; Gidlund, Mikael, "PriorityMAC: A Priority-Enhanced MAC Protocol for Critical Traffic in Industrial Wireless Sensor and Actuator Networks," Industrial Informatics, IEEE Transactions on , vol.10, no.1, pp.824,835, Feb. 2014.
 
 BibTex:
 @ARTICLE{prioritymac, 
